@@ -1,1 +1,1 @@
-# servivorGame
+# 생존형 오픈월드 게임
